@@ -1,12 +1,29 @@
-# React + Vite
+ 22-RPM-Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend for the 22-RPM project. It is built with **Next.js** and **React**, and interacts with the backend APIs to provide a complete user interface.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Prerequisites
 
-## Expanding the ESLint configuration
+Before running this project, make sure you have the following installed:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Node.js
+   Download from [https://nodejs.org](https://nodejs.org)
+
+2. npm  
+   Verify with:
+   ```bash
+   node -v
+   npm -v
+
+
+git clone https://github.com/Wajahat-Programmer/22-RPM-Frontend.git
+cd 22-RPM-Frontend
+npm install
+
+
+Create a .env file in the root directory.
+
+
+Running the App
+npm run dev
