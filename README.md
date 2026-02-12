@@ -1,6 +1,6 @@
  22-RPM-Frontend
 
-This is the frontend for the 22-RPM project. It is built with **Next.js** and **React**, and interacts with the backend APIs to provide a complete user interface.
+This is the frontend for the 22-RPM project. It is built with **React**, and interacts with the backend APIs to provide a complete user interface.
 
 
 Prerequisites
@@ -18,7 +18,9 @@ Before running this project, make sure you have the following installed:
 
 
 git clone https://github.com/Wajahat-Programmer/22-RPM-Frontend.git
+
 cd 22-RPM-Frontend
+
 npm install
 
 
